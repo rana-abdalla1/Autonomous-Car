@@ -71,9 +71,9 @@ case CW:
 	break;
 }
 
-//set direction of motor 2
 }
 
+//set direction of motor 2
 void H_DCMotor_Void_DCMotorSetDirection2(u8 Copy_U8_Direction)
 {
 switch(Copy_U8_Direction)
