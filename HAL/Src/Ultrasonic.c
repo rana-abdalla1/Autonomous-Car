@@ -24,7 +24,7 @@ u8 Ultrasonic_getDist(void) //function to return distance
 
 	M_DIO_Void_SetPinDirection(PA0_PIN,OUTPUT); //Configure Trigger pin as output
 
-	//PORTD = 0xFF;
+	
 
 	sei();// Activate global interrupts
 
