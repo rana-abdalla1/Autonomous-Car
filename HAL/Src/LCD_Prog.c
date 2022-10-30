@@ -18,7 +18,7 @@
 #define LCD_D5_PIN       PA5_PIN
 #define LCD_D6_PIN       PA6_PIN
 #define LCD_D7_PIN       PA7_PIN
-#define LCD_EN_PIN       PB4_PIN
+#define LCD_EN_PIN       PB3_PIN
 #define LCD_RW_PIN       PB2_PIN
 #define LCD_RS_PIN       PB1_PIN
 
